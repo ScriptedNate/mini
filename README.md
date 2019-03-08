@@ -1,5 +1,3 @@
-# [Lua minifier](https://mothereff.in/lua-minifier)
+# [Lua Obsfucator]()
 
-This tool will automatically minify any valid Lua snippet you enter, using [luamin](https://mths.be/luamin). Under the hood, luamin uses [luaparse](http://oxyc.github.com/luaparse/).
-
-Made by [Mathias Bynens](https://mathiasbynens.be/).
+Made by [Nate Parker Poli]
